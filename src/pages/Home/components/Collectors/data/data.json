@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1c09e2a2-6d98-4a8c-9f48-1e663f5a7613",
+    "name": "Emily Thompson",
+    "imagePath": "/collectors/emily.svg",
+    "collectionNumber": 12
+  },
+  {
+    "id": "a7f0e9b4-6098-4d3d-9a8c-90b3e51d5c51",
+    "name": "Olivia Martinez",
+    "imagePath": "/collectors/olivia.svg",
+    "collectionNumber": 10
+  },
+  {
+    "id": "f6b1e4c8-6a71-47b1-87e5-93a048d7e6f4",
+    "name": "Sophia White",
+    "imagePath": "/collectors/sophia.svg",
+    "collectionNumber": 8
+  },
+  {
+    "id": "d1fa1b6e-d5d7-4386-8a83-8d447dbe0a0e",
+    "name": "Isabella Brown",
+    "imagePath": "/collectors/isabella.svg",
+    "collectionNumber": 12
+  },
+  {
+    "id": "2b7b0b4b-660d-4b2a-92db-96c5e60700e4",
+    "name": "William Anderson",
+    "imagePath": "/collectors/william.svg",
+    "collectionNumber": 14
+  },
+  {
+    "id": "b3f5d1e0-f1b3-47ac-87da-1e1e7d89d845",
+    "name": "Benji Mia Davis",
+    "imagePath": "/collectors/benji.svg",
+    "collectionNumber": 8
+  },
+  {
+    "id": "aef5f1b6-7c40-4c45-8674-3b6386b5571b",
+    "name": "Benjamin Johnson",
+    "imagePath": "/collectors/benjamin.svg",
+    "collectionNumber": 14
+  },
+  {
+    "id": "9eabf77b-2c42-4c87-8d2f-60b22b4b25d0",
+    "name": "Ava Taylor",
+    "imagePath": "/collectors/eva.svg",
+    "collectionNumber": 21
+  },
+  {
+    "id": "6bfc11d2-c1e2-46f8-8a6a-4f04298c752f",
+    "name": "Benji Immanuel",
+    "imagePath": "/collectors/benji-immanuel.svg",
+    "collectionNumber": 18
+  },
+  {
+    "id": "5e3d6e71-14c4-43a5-a529-2e69a85b1f44",
+    "name": "James Smith",
+    "imagePath": "/collectors/james.svg",
+    "collectionNumber": 6
+  },
+  {
+    "id": "94e95c1b-8a29-4728-b20e-c3c32d15f1e2",
+    "name": "Benji Immanuel",
+    "imagePath": "/collectors/benji-immanuel2.svg",
+    "collectionNumber": 19
+  }
+]

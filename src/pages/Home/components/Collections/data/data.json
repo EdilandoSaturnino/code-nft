@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1c09e2a2-6d98-4a8c-9f48-1e663f5a7613",
+    "imagePath": "/collections/skisirs01.svg",
+    "title": "SKISIRS 01"
+  },
+  {
+    "id": "a7f0e9b4-6098-4d3d-9a8c-90b3e51d5c51",
+    "imagePath": "/collections/skisirs02.svg",
+    "title": "SKISIRS 02"
+  },
+  {
+    "id": "f6b1e4c8-6a71-47b1-87e5-93a048d7e6f4",
+    "imagePath": "/collections/skisirs03.svg",
+    "title": "SKISIRS 03"
+  },
+  {
+    "id": "d1fa1b6e-d5d7-4386-8a83-8d447dbe0a0e",
+    "imagePath": "/collections/skisirs04.svg",
+    "title": "SKISIRS 04"
+  },
+  {
+    "id": "2b7b0b4b-660d-4b2a-92db-96c5e60700e4",
+    "imagePath": "/collections/skisirs05.svg",
+    "title": "SKISIRS 05"
+  },
+  {
+    "id": "2b7b0b4b-660d-4b2a-92db-96c5e60700e4",
+    "imagePath": "/collections/skisirs06.svg",
+    "title": "SKISIRS 06"
+  }
+]
